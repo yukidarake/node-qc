@@ -1,0 +1,4 @@
+--ui bdd
+--reporter tap
+--timeout 5000
+--require should

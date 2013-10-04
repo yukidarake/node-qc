@@ -1,0 +1,16 @@
+{
+  "name": "qc",
+  "version": "0.0.1",
+  "description": "convert text to sudden death format",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "bin": "./bin/qc",
+  "dependencies": {
+    "eastasianwidth": "~0.1.0"
+  }
+}
