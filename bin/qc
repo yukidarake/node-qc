@@ -3,7 +3,7 @@ var s = process.argv[2];
 var br = process.argv[3];
 
 if (s === undefined) {
-    console.log('usage: q4 突然の死');
+    console.log('usage: qc 突然の死');
     process.exit(1);
 }
 
