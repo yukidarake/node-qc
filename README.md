@@ -7,7 +7,7 @@ node-qc
 「突然の死」をコマンドラインから生成できる
 
 #Installation
- npm install -g https://github.com/yukidarake/node-qc/archive/0.0.2.tar.gz
+ npm install -g yukidarake/node-qc
  
 #Usage
  qc 突然の死
