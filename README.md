@@ -1,5 +1,7 @@
 node-qc
 =======
+[![Build Status](https://travis-ci.org/yukidarake/node-qc.svg?branch=master)](https://travis-ci.org/yukidarake/node-qc)
+
   ＿人人人人人人＿  
   ＞　node-qc　＜  
   ￣Y^Y^Y^Y^Y^￣  
